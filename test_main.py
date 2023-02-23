@@ -1,5 +1,5 @@
 def test_first():
     assert 3 > 1
 
-def test_super_pup_second():
+def test_two():
     assert 3 > 1
